@@ -1,4 +1,4 @@
-<h1 align="center"><b>Jin TopNinja</b><br>Agile Full Stack Developer at <a href="https://www.upwork.com/o/companies/~01eb91845e8f822420/">Toplev</a>, <a href="https://fivestarsmobi.com">Fivestarsmobi</a></h1>
+<h1 align="center"><b>Jin - TopNinja</b><br>Agile Full Stack Developer at <a href="https://www.upwork.com/o/companies/~01eb91845e8f822420/">Toplev</a>, <a href="https://fivestarsmobi.com">Fivestarsmobi</a></h1>
 
 <a target="blank" href="https://profile-counter.glitch.me/topninja/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/topninja/count.svg" /></a>
 <h3 align="center">
