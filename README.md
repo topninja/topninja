@@ -4,7 +4,6 @@
 <h3 style="text-align:center">
 Platform&Tools
 </h3>
-<div style="text-align:center">
 [![Windows-10](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![VSCode](https://img.shields.io/badge/IDE-WebStorm%20-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/download)
 
@@ -19,7 +18,7 @@ Platform&Tools
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Sass](https://img.shields.io/badge/-Sass-00BCD4?style=flat-square&logo=sass&logoColor=ffffff)](https://www.sass.hk/)
 [![Stylus](https://img.shields.io/badge/-Stylus-ff6347?style=flat-square&logo=stylus&logoColor=ffffff)](https://stylus-lang.com/)
-</div>
+
 <p style="text-align:center">
   <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=topninja&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
 </p>
