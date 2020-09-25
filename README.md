@@ -1,6 +1,6 @@
 <h1 align="center"><b>Jin</b><br>Agile Full Stack Developer at <a href="https://www.upwork.com/o/companies/~01eb91845e8f822420/">Toplev</a>, <a href="https://fivestarsmobi.com">Fivestarsmobi</a></h1>
 
-<a href="https://profile-counter.glitch.me/topninja/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/topninja/count.svg" /></a>
+<a target="blank" href="https://profile-counter.glitch.me/topninja/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/topninja/count.svg" /></a>
 <h3 style="text-align:center">
 Platform&Tools
 </h3>
