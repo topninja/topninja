@@ -5,7 +5,7 @@
 Platform&Tools
 </h3>
 
-<div style="text-align:center">
+<div align="center">
 
 [![Windows-10](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![VSCode](https://img.shields.io/badge/IDE-WebStorm%20-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/download)
